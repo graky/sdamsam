@@ -25,7 +25,7 @@ SECRET_KEY = '1w0lmlj4i5w-_ds)6cnxb8=&+k7@k@!nc3(&k_cz7d)g)ke&&_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sdamsam.tw1.ru']
 
 
 # Application definition
