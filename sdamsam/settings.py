@@ -81,7 +81,7 @@ DATABASES = {
         'NAME': 'sdamsam_db',
         'USER':'postgres',
         'PASSWORD':'udubat96',
-        'HOSE':'185.104.113.99'
+        'HOST':'185.104.113.99'
     }
 }
 
