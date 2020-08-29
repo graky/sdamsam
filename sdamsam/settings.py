@@ -77,11 +77,11 @@ WSGI_APPLICATION = 'sdamsam.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'cp36696_sdamsam',
-        'USER':'cp36696_sdamsam',
-        'PASSWORD':'sdamsam',
-        'HOSE':'localhost'
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'sdamsam_db',
+        'USER':'postgres',
+        'PASSWORD':'udubat96',
+        'HOSE':'185.104.113.99'
     }
 }
 
